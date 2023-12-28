@@ -11,7 +11,7 @@ This Terraform project deploys an EC2 instance on AWS, allowing you to customize
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/itzmeakhi/altg-akhil-task1.git
 
 2. **Edit the terraform.tfvars file:**
 
