@@ -18,4 +18,4 @@ This Terraform project deploys an EC2 instance on AWS, allowing you to customize
    Modify the terraform.tfvars file to customize the deployment parameters. An example is given in terraform.tfvars.sample
 
 
- *Note: This deployment as of now uses the default VPC and default EBS volume settings.*
+ **Note: This deployment as of now uses the default VPC and default EBS volume settings.**
